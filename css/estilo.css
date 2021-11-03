@@ -1,0 +1,26 @@
+#conteudo {
+    display: inline-block;
+    width: 900px;
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 4px;
+}
+
+#barra-lateral {
+    display: inline-block;
+    width: 300px;
+}
+
+#tarefas-pendentes {
+    border-bottom: 1px solid greenyellow;
+}
+
+.itens-lateral {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.link-select {
+    border: 2px solid #050;
+    border-left: 10px solid #050;
+}
+
